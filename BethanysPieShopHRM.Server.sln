@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM.Server", "BethanysPieShopHRM.Server\BethanysPieShopHRM.Server.csproj", "{44D4821E-5869-4CD8-B8FB-AEDCF2765D64}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{8D7DDD0B-4824-45C1-BD21-42E52D110D82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{44D4821E-5869-4CD8-B8FB-AEDCF2765D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D4821E-5869-4CD8-B8FB-AEDCF2765D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D4821E-5869-4CD8-B8FB-AEDCF2765D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7DDD0B-4824-45C1-BD21-42E52D110D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7DDD0B-4824-45C1-BD21-42E52D110D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7DDD0B-4824-45C1-BD21-42E52D110D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7DDD0B-4824-45C1-BD21-42E52D110D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
